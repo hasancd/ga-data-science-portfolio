@@ -1,0 +1,9 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python cache (if any scripts/docs are added later)
+__pycache__/
+*.py[cod]
